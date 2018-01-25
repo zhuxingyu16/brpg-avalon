@@ -1,8 +1,0 @@
-.c-line-clamp1 {
-    -webkit-line-clamp: 1;
-    display: -webkit-box;
-    overflow: hidden;
-    white-space: normal;
-    text-overflow: ellipsis;
-    -webkit-box-orient: vertical;
-}
